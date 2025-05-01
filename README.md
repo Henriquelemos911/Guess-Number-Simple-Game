@@ -10,10 +10,10 @@ How to Run the C++ Code
    cd /path/to/your/file
 
 3. Compile the code:
-   g++ guess.cpp -o guessGame
+   g++ main.cpp -o main
 
 4. Run the program:
-   ./guessGame
+   ./main
 
 
 🪟 On Windows (using MinGW):
@@ -27,7 +27,7 @@ How to Run the C++ Code
    cd C:\path\to\your\file
 
 4. Compile your C++ file:
-   g++ guess.cpp -o guessGame.exe
+   g++ main.cpp -o main.exe
 
 5. Run the program:
-   guessGame.exe
+   main.exe
