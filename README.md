@@ -1,4 +1,4 @@
-How to Run the C++ Code
+How to Run the C++ Coe
 
 🔧 On Linux:
 
